@@ -11,7 +11,9 @@
  */
 
 package com.test.tree;
-import chapter03linkedlists.*;
+
+import com.test.ll.ListNode;
+
 public class SortedArrayToBST {
     // bottom up
     public BinarySearchTreeNode sortedListToBST(ListNode head) {

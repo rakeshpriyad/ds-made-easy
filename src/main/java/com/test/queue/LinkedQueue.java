@@ -13,7 +13,8 @@
 
 
 package com.test.queue;
-import chapter03linkedlists.*;
+
+import com.test.ll.ListNode;
 
 public class LinkedQueue{
 	private int length;

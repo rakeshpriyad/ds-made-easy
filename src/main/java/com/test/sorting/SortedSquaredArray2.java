@@ -13,7 +13,7 @@
  
 package com.test.sorting;
  
-class SortedSquaredArray {
+class SortedSquaredArray2 {
   public int[] sortedSquaredArray(int[] A) {
       int n = A.length;
       int j = 0;
